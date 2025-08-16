@@ -5,13 +5,6 @@ Passionate about **Web Development 🌐**, **AI & ML 🤖**, and currently learn
 
 ---
 
-### 🔥 About Me
-- 🌱 Exploring **MERN Stack** + **Game Dev**  
-- 💻 Building **real-world projects**  
-- 📖 Learning something new every day ⚡  
-
----
-
 ### ⚡ Fun Facts
 - Started coding in **2022** 🐞  
 - Don’t drink coffee ☕🚫  
