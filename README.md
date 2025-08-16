@@ -46,3 +46,13 @@ Outside of coding, you'll usually find me playing **chess ♟️**, **football �
 ---
 
 ✨ _“Coding is fun… sometimes 😅”_
+
+
+
+
+### 🏆 Achievements
+![Hackathon](https://img.shields.io/badge/💡%20Hackathons-2%20Participations-blue)  
+![Projects](https://img.shields.io/badge/🚀%20Projects-10%2B-success)  
+![OpenSource](https://img.shields.io/badge/🌍%20Open%20Source-Contributor-green)  
+![Learning](https://img.shields.io/badge/📚%20Learning%20Every%20Day-purple)  
+
