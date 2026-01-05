@@ -1,14 +1,14 @@
 # Hi there! 🐼
 
 I'm **Dwarkadhish**, a 3rd-year Computer Engineering student 🎓.  
-Passionate about **Web Development 🌐**, **AI & ML 🤖**, and currently learning **Unreal Engine 🎮**.  
+Passionate about **Web Development 🌐**, **AI & ML 🤖**, Outside of coding, I enjoy PC games 🎮 and exploring new technologies ..  
 
 ---
 
 ### ⚡ Fun Facts
 - Started coding in **2022** 🐞  
-- Don’t drink coffee ☕🚫  
-- Anime fan 🎬 (Demon Slayer 🗡️)  
+- Don’t drink coffee ☕🚫 but Sometimes 🙂  
+- Anime fan 🎬 (HunterXHunter 🗡️)  
 
 ---
 
@@ -19,4 +19,4 @@ Passionate about **Web Development 🌐**, **AI & ML 🤖**, and currently learn
 
 ---
 
-✨ _“Coding is fun… sometimes 😅”_
+✨ _“Just doing stuff 🦊”_
