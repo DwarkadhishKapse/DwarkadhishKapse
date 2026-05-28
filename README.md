@@ -1,6 +1,6 @@
 # Hi there! 🐼
 
-I'm **Dwarkadhish**, a 3rd-year Computer Engineering student 🎓.  
+I'm **Dwarkadhish**, a 4th-year Computer Science student 🎓.  
 Passionate about **Web Development 🌐**, **AI & ML 🤖**, Outside of coding, I enjoy PC games 🎮 and exploring new technologies ..  
 
 ---
