@@ -30,19 +30,37 @@
 
 # 👨‍💻 About Me
 
-- Full Stack Developer focused on the MERN stack
-- Building responsive and scalable web applications
-- Interested in AI-powered applications
-- Currently working on AI Fitness Trainer
+```javascript
+const dwarkadhish = {
+    role: "Full Stack Developer",
+    stack: ["React", "Node.js", "Express", "MongoDB"],
+    interests: [
+        "Web Development",
+        "AI Applications",
+        "Backend Architecture"
+    ],
+    currentProject: "AI Fitness Trainer",
+    location: "India"
+};
+```
 
 ---
 
 # 🚀 Current Focus
 
-- AI Fitness Trainer
-- Advanced React
-- Backend Architecture
-- AI Integration
+```yaml
+learning:
+  - Advanced React
+  - Backend Architecture
+  - AI Integration
+
+building:
+  - AI Fitness Trainer
+
+interested_in:
+  - AI Powered Products
+  - Scalable Applications
+```
 
 ---
 
@@ -52,7 +70,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind&theme=dark" />
 
 </div>
 
@@ -93,9 +111,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DwarkadhishKapse&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DwarkadhishKapse&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwarkadhishKapse&layout=compact&theme=github_dark&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwarkadhishKapse&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
