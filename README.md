@@ -4,62 +4,57 @@
 
 # 🜏 THE SOFTWARE CRAFTSMAN 🜏
 
-*"A lone wanderer forging worlds inside cursed lines of code..."*
+*"A silent builder wandering through broken systems and glowing code..."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=28&duration=4000&pause=1000&color=DC143C&center=true&vCenter=true&width=1000&lines=Software+Craftsman;MERN+Stack+Developer;Builder+of+Digital+Kingdoms;Forging+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=900&color=8A2BE2&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;Building+Modern+Web+Realms;Turning+Ideas+Into+Working+Systems;Learning+One+Commit+At+A+Time" />
 
 </div>
 
 ---
 
-# 📜 THE ADVENTURER'S INTRODUCTION
-
-> *"Legends are not born. They are written in struggle."*
-
-### 🏰 Character Sheet
+# 📌 ABOUT ME
 
 ```yaml
 Name        : Dwarkadhish Kapse
-Title       : Software Craftsman
-Origin      : India
-Class       : MERN Stack Developer
-Guild       : Open Source Fellowship
-Weapon      : JavaScript
-Status      : Journey In Progress
+Role        : MERN Stack Developer
+Location    : India
+Focus       : Full Stack Web Development
+Style       : Clean + Modern + Dark Aesthetic
+Status      : Actively Building Projects
 ```
 
-I am a MERN Stack Developer walking through the endless digital realm,
-building applications, learning through real battles, and growing with every commit.
+I am a MERN Stack Developer focused on building modern, responsive, and scalable web applications.
+
+I learn by building.  
+I improve by breaking things.  
+I grow by shipping projects.
 
 ---
 
 # 🎯 CURRENT QUESTS
 
 ⚔️ Building MERN Stack Applications  
-🏰 Improving React Mastery  
-📚 Learning Through Projects  
-🤝 Exploring Open Source  
-🔥 Creating Real World Applications  
-🐞 Hunting Bugs Across Code Realms  
+💻 Improving React & Node Skills  
+🧩 Solving Real-World Problems  
+🚀 Creating Production-Ready Projects  
+🌐 Exploring Open Source Contributions  
 
 ---
 
-# 🧙 SKILLS & POWERS
+# 🧠 TECH ARSENAL
 
 ```text
-◈ JavaScript
-◈ React.js
-◈ Node.js
-◈ Express.js
-◈ MongoDB
-◈ REST APIs
-◈ Git & GitHub
-◈ Responsive UI Design
+JavaScript  • Core Language
+React.js    • UI Crafting Engine
+Node.js     • Backend Engine
+Express.js  • API Layer
+MongoDB     • Data Storage Realm
+Git/GitHub  • Version Control
 ```
 
 ---
 
-# ⚔️ WEAPONS ARSENAL
+# ⚔️ WEAPONS (TECH STACK)
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,postman" />
@@ -67,81 +62,56 @@ building applications, learning through real battles, and growing with every com
 
 ---
 
-# 🏺 ANCIENT RELICS (PROJECTS)
+# 🏗️ FEATURED PROJECTS (ANOMALIES BUILT)
 
 ## ⚔️ AI Trainer
-A training realm where users sharpen their skills using interactive AI-based learning systems.
+A smart learning-based system designed to help users practice and improve skills interactively.
 
 ## 💬 HeyChat
-A real-time communication world where travelers connect and exchange messages across the void.
+A real-time chat application built for seamless communication between users.
 
 ## 👑 Apex Ecommerce
-A digital merchant kingdom built for browsing and trading products in a modern web environment.
+A modern ecommerce platform with product browsing, cart system, and smooth UX.
 
 ## 📝 Sticky Notes
-A simple yet powerful memory artifact used to store thoughts, tasks, and ideas.
+A minimal productivity tool to store ideas, tasks, and reminders instantly.
 
 ---
 
-# 🏆 HALL OF ACHIEVEMENTS
+# 🏆 ACHIEVEMENTS
 
 ```diff
-+ Built Multiple MERN Stack Projects
-+ Developed Full Stack Applications
-+ Created Authentication Systems
-+ Built REST APIs
-+ Learned Through Real World Practice
-+ Continuing The Journey Of Growth
++ Built Multiple Full Stack MERN Applications
++ Developed Real World UI/UX Systems
++ Created REST APIs & Authentication Flows
++ Improved Problem Solving Skills
++ Consistent Project Building Practice
 ```
 
 ---
 
-# 🗺️ FUTURE PATH (ROADMAP)
+# 🧭 FUTURE PATH
 
-◈ Learn TypeScript  
-◈ Learn Next.js  
-◈ Master Advanced React  
-◈ Build Larger Full Stack Applications  
-◈ Contribute More To Open Source  
-◈ Create Real World Products  
-◈ Become A Professional Software Engineer  
+◈ TypeScript  
+◈ Next.js  
+◈ Advanced React Patterns  
+◈ Larger Scalable Applications  
+◈ Open Source Contributions  
+◈ Real-World SaaS Projects  
+◈ Professional Software Engineer Role  
 
 ---
 
-# 🧿 STATUS OF THE WANDERER
+# 🧿 CURRENT STATUS
 
 ```
-Making bugs since 2022 ⚔️🐞
+Making bugs since 2022 🐞
 ```
 
 ---
 
-# 🜏 THE TRAVELER'S CREED
+# ⚡ CLOSING LINE
 
-> "Every bug defeated is a lesson gained."  
-> "Every project built is a kingdom forged."  
-> "The journey never ends — it only evolves."
-
----
-
-# 🧙 PROFILE VISUAL SYSTEM (IMPORTANT)
-
-## 🧿 PROFILE AVATAR (PFP PROMPT)
-
-Use this to generate your GitHub profile image:
-
-> Dark fantasy anime portrait of a young male MERN stack developer, long black flowing hair partially covering face, calm expression, pale skin, monochrome ink illustration style, Berserk and Elden Ring inspired atmosphere, surrounded by glowing white spider lilies, subtle crimson aura, cinematic lighting, soft shadows, ultra detailed face, minimal background, emotional and mysterious tone, centered composition, no text, no watermark
-
----
-
-## 🌌 GITHUB BANNER (HEADER IMAGE PROMPT)
-
-> Wide cinematic dark fantasy landscape, abandoned digital kingdom ruins shaped like broken code structures, glowing crimson runes in the sky, white spider lilies growing through broken technology, fog covering ground, lone silhouette of a wandering MERN craftsman standing in distance, long black hair, cloak flowing in wind, monochrome + crimson ink fantasy style, Elden Ring and Berserk inspired, ultra cinematic lighting, emotional empty atmosphere, highly detailed, wide banner format, no text
-
----
-
-# 👑 FINAL LINE
-
-> "One day, these commits will become legend."
+> "I don’t chase perfection — I build, break, and improve until it works."
 
 ---
