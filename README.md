@@ -32,15 +32,15 @@
 
 ```javascript
 const dwarkadhish = {
-    role: "Full Stack Developer",
-    stack: ["React", "Node.js", "Express", "MongoDB"],
-    interests: [
-        "Web Development",
-        "AI Applications",
-        "Backend Architecture"
-    ],
-    currentProject: "AI Fitness Trainer",
-    location: "India"
+  role: "Full Stack Developer",
+  stack: ["React", "Node.js", "Express", "MongoDB"],
+  interests: [
+    "Web Development",
+    "AI Applications",
+    "Backend Architecture"
+  ],
+  currentProject: "AI Fitness Trainer",
+  location: "India"
 };
 ```
 
@@ -94,28 +94,35 @@ interested_in:
 
 # 🚀 Featured Projects
 
-<div align="center">
+<p align="center">
 
-| Project | Description |
-|----------|-------------|
-| 🏋️ AI Fitness Trainer | AI-powered workout planner built with MERN |
-| 💬 HeyChat | Real-time messaging application |
-| 🛒 Apex Ecommerce | Full-stack ecommerce platform |
-| 📝 Sticky Notes | Productivity application |
+<a href="YOUR_AI_FITNESS_TRAINER_REPO_LINK">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=AI-Fitness-Trainer&theme=github_dark&hide_border=true"/>
+</a>
 
-</div>
+<a href="YOUR_HEYCHAT_REPO_LINK">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=HeyChat&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="YOUR_APEX_ECOMMERCE_REPO_LINK">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=Apex-Ecommerce&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="YOUR_STICKY_NOTES_REPO_LINK">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=Sticky-Notes&theme=github_dark&hide_border=true"/>
+</a>
+
+</p>
 
 ---
 
-# 📊 GitHub Statistics
+# 🏆 GitHub Trophies
 
-<p align="center">
-  <img height="170em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=DwarkadhishKapse&show_icons=true&theme=github_dark&hide_border=true"/>
+<div align="center">
 
-  <img height="170em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DwarkadhishKapse&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=DwarkadhishKapse&theme=darkhub&no-frame=true&margin-w=15&row=1"/>
+
+</div>
 
 ---
 
