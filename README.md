@@ -111,10 +111,10 @@ interested_in:
 
 <p align="center">
   <img height="170em"
-       src="https://github-readme-stats.vercel.app/api?username=DwarkadhishKapse&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=DwarkadhishKapse&show_icons=true&theme=github_dark&hide_border=true"/>
 
   <img height="170em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwarkadhishKapse&layout=compact&theme=github_dark&hide_border=true" />
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DwarkadhishKapse&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
