@@ -4,7 +4,7 @@
 
 ### 🜏 Full Stack Developer (MERN)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Building+Clean+and+Scalable+Web+Apps;Turning+Ideas+Into+Production-Ready+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Building+Clean+and+Scalable+Web+Applications;Focused+on+React+%2B+Node+%2B+MongoDB" />
 
 </div>
 
@@ -12,29 +12,21 @@
 
 ## 🧑‍💻 ABOUT ME
 
-> “I enjoy turning complex problems into simple, elegant digital experiences.”
+I am a **Full Stack Developer** focused on building web applications using the **MERN stack (MongoDB, Express, React, Node.js)**.
 
-I’m a **Full Stack Developer** focused on building modern web applications using the **MERN stack**.
+I work on creating responsive UI, building REST APIs, and developing full-stack applications with practical functionality.
 
-I like writing clean, maintainable code and designing interfaces that feel smooth, fast, and intuitive.
-
-Currently, I spend most of my time:
-- Building real-world full-stack projects  
-- Improving React & backend development skills  
-- Learning how to write production-ready code  
-- Exploring better UI/UX patterns  
-
-🖤 I believe good software is not just functional — it should feel effortless to use.
+Currently, I am focused on improving my skills by building real projects and strengthening my understanding of modern web development.
 
 ---
 
 ## ⚡ CURRENT FOCUS
 
 - MERN Stack Development  
-- React.js Deep Practice  
-- Node.js + API Design  
-- Authentication & System Design Basics  
-- Building Portfolio-Grade Projects  
+- React.js Improvement  
+- Node.js & API Development  
+- Building Full Stack Projects  
+- Improving Code Quality  
 
 ---
 
@@ -60,29 +52,25 @@ Tools     → Git, GitHub, Postman, VS Code
 ## 🏗️ FEATURED PROJECTS
 
 ### ⚔️ AI Trainer
-A smart practice-based application designed to improve learning through interactive experience.
+A web application designed to help users practice and improve skills through structured interaction.
 
 ### 💬 HeyChat
-A real-time chat application with smooth messaging experience and responsive UI.
+A real-time messaging application with a simple and responsive interface.
 
 ### 👑 Apex Ecommerce
-A fully functional ecommerce platform with product browsing and cart system.
+A functional ecommerce platform with product listing and cart features.
 
 ### 📝 Sticky Notes
-A minimal productivity tool for saving and organizing daily thoughts.
+A minimal tool for storing and managing quick notes.
 
 ---
 
-## 📈 DEVELOPMENT PHILOSOPHY
+## 📈 DEVELOPMENT APPROACH
 
-```
-Build → Break → Learn → Improve → Repeat
-```
-
-I focus on:
-- Clean architecture over complexity  
-- Real-world usability over flashy features  
-- Continuous improvement over perfection  
+- Focus on building functional applications  
+- Prefer clean and maintainable code  
+- Learn through real-world projects  
+- Improve step by step with each build  
 
 ---
 
@@ -90,10 +78,10 @@ I focus on:
 
 - TypeScript  
 - Next.js  
-- Advanced React Patterns  
-- Scalable Full Stack Systems  
+- Advanced React Concepts  
+- Scalable Full Stack Applications  
 - Open Source Contributions  
-- Production-level Applications  
+- Production-Level Projects  
 
 ---
 
@@ -105,14 +93,8 @@ Making bugs since 2022 🐞
 
 ---
 
-## 🖤 CLOSING NOTE
+## 🧑‍💻 CLOSING NOTE
 
-> “I’m not just building projects — I’m building discipline, one commit at a time.”
+Currently focused on learning and building as a developer.
 
 ---
-
-<div align="center">
-
-### 🜏 Minimal. Clean. Consistent.
-
-</div>
