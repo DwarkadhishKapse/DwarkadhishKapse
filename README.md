@@ -1,8 +1,6 @@
 <div align="center">
 
-<div align="center">
-  <img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJudDRnb20xZjExMzB4Y2hnNWQ4ZW9mdmg5bXM1d3dyZ3Mwa2I1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ci4vIzBJxofxI8xbgh/giphy.gif" />
-</div>
+<img width="100%" src="YOUR_GIF_URL_HERE" />
 
 # ⚔️ Dwarkadhish Kapse
 
@@ -16,36 +14,13 @@
 
 ---
 
-<div align="center">
+## ⚔️ About Me
 
-## ⚔️ Developer Card
+Full Stack Developer specializing in building responsive and scalable web applications using the MERN stack.
 
-<table>
-<tr>
-<td>
+Focused on writing clean, maintainable code and developing applications with real-world usability.
 
-```text
-┌─────────────────────────────────┐
-│                                 │
-│  DWARKADHISH KAPSE              │
-│                                 │
-│  Full Stack Developer (MERN)    │
-│                                 │
-│  ⚛ React.js                     │
-│  🟢 Node.js                     │
-│  🍃 MongoDB                     │
-│                                 │
-│  Building scalable and          │
-│  responsive web applications    │
-│                                 │
-└─────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-</div>
+Currently improving expertise in frontend engineering, backend architecture, and full-stack integration.
 
 ---
 
@@ -63,13 +38,13 @@
 
 <div align="center">
 
-| Category     | Technologies                  |
-| ------------ | ----------------------------- |
-| **Language** | JavaScript (ES6+)             |
-| **Frontend** | React, HTML, CSS              |
-| **Backend**  | Node.js, Express.js           |
-| **Database** | MongoDB                       |
-| **Tools**    | Git, GitHub, VS Code, Postman |
+| Category | Technologies |
+|----------|-------------|
+| **Language** | JavaScript (ES6+) |
+| **Frontend** | React, HTML, CSS |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB |
+| **Tools** | Git, GitHub, VS Code, Postman |
 
 </div>
 
@@ -141,17 +116,11 @@ Minimal productivity application for managing notes and tasks efficiently.
 
 ## ⚙️ Engineering Approach
 
-```text
-Build functional and scalable applications
-
-Focus on clean architecture and reusable components
-
-Prefer simplicity over unnecessary complexity
-
-Learn through hands-on implementation
-
-Iterate and improve continuously
-```
+- Build functional and scalable applications
+- Focus on clean architecture and reusable components
+- Prefer simplicity over unnecessary complexity
+- Learn through hands-on implementation
+- Iterate and improve continuously
 
 ---
 
@@ -160,6 +129,16 @@ Iterate and improve continuously
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DwarkadhishKapse&theme=github-dark&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DwarkadhishKapse&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -175,15 +154,9 @@ Iterate and improve continuously
 
 ---
 
-## 📌 Summary
-
-Focused on growing as a Full Stack Developer by building production-oriented projects and continuously improving technical depth.
-
----
-
 <div align="center">
 
-### 「義」
+## 「義」
 
 ### Keep Building.
 
