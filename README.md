@@ -1,8 +1,6 @@
-<div align="center">
+div align="center">
 
-<div>
-  <img src="./assets/papeis-de-parede-estandarte.gif" width="90%" height="400"/>
-</div>
+<img src="./assets/papeis-de-parede-estandarte.gif" width="90%" />
 
 # ⚔️ Dwarkadhish Kapse
 
@@ -18,11 +16,9 @@
 
 ## ⚔️ About Me
 
-Full Stack Developer specializing in building responsive and scalable web applications using the MERN stack.
+Full Stack Developer focused on building responsive and scalable web applications using the MERN stack.
 
-Focused on writing clean, maintainable code and developing applications with real-world usability.
-
-Currently improving expertise in frontend engineering, backend architecture, and full-stack integration.
+Passionate about clean code, practical solutions, and continuous learning through real-world projects.
 
 ---
 
@@ -36,79 +32,16 @@ Currently improving expertise in frontend engineering, backend architecture, and
 
 ---
 
-## 💻 Technical Skills
+## 🚀 Featured Projects
 
 <div align="center">
 
-| Category | Technologies |
+| Project | Description |
 |----------|-------------|
-| **Language** | JavaScript (ES6+) |
-| **Frontend** | React, HTML, CSS |
-| **Backend** | Node.js, Express.js |
-| **Database** | MongoDB |
-| **Tools** | Git, GitHub, VS Code, Postman |
-
-</div>
-
----
-
-## ⚔️ GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DwarkadhishKapse&theme=github-dark&hide_border=true" />
-
-</div>
-
----
-
-## 🚀 Projects
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### ⚔️ AI Trainer
-
-Web application designed to provide structured learning and practice experience.
-
-</td>
-
-<td width="50%">
-
-### 💬 HeyChat
-
-Real-time messaging application with responsive UI and authentication flow.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🛒 Apex Ecommerce
-
-Full-stack ecommerce platform with product browsing, cart, and checkout flow.
-
-</td>
-
-<td width="50%">
-
-### 📝 Sticky Notes
-
-Minimal productivity application for managing notes and tasks efficiently.
-
-</td>
-
-</tr>
-
-</table>
+| ⚔️ **AI Trainer** | Structured learning and practice platform |
+| 💬 **HeyChat** | Real-time messaging application with authentication |
+| 🛒 **Apex Ecommerce** | Full-stack ecommerce platform |
+| 📝 **Sticky Notes** | Minimal productivity application |
 
 </div>
 
@@ -124,7 +57,7 @@ Minimal productivity application for managing notes and tasks efficiently.
 
 ---
 
-## 📈 Contribution Activity
+## ⚔️ GitHub Activity
 
 <div align="center">
 
@@ -159,5 +92,7 @@ Minimal productivity application for managing notes and tasks efficiently.
 ## 「義」
 
 ### Keep Building.
+
+*"Discipline in learning. Excellence in execution."*
 
 </div>
