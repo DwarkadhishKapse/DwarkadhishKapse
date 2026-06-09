@@ -28,7 +28,7 @@
 
 ---
 
-# 👨‍💻 About Me
+## 【 About Me 】
 
 ```javascript
 const dwarkadhish = {
@@ -46,7 +46,7 @@ const dwarkadhish = {
 
 ---
 
-# 🚀 Current Focus
+## 【 Current Focus 】
 
 ```yaml
 learning:
@@ -64,7 +64,7 @@ interested_in:
 
 ---
 
-# 🛠 Tech Stack
+## 【 Tech Stack 】
 
 ### Frontend
 
@@ -92,7 +92,7 @@ interested_in:
 
 ---
 
-# 🚀 Featured Projects
+## 【 Featured Projects 】
 
 | Project | Tech Stack | Description |
 |----------|------------|-------------|
@@ -113,7 +113,7 @@ interested_in:
 
 ---
 
-# 🔥 Contribution Streak
+# 【 Contribution Streak 】
 
 <div align="center">
 
@@ -123,7 +123,7 @@ interested_in:
 
 ---
 
-# 🐍 Contribution Snake
+# 【 Contribution Snake 】
 
 <div align="center">
 
