@@ -1,6 +1,7 @@
+````md
 <div align="center">
 
-<img src="./assets/papeis-de-parede-estandarte.gif" width="90%" />
+<img src="./assets/papeis-de-parede-estandarte.gif" width="95%" />
 
 # ⚔️ Dwarkadhish Kapse
 
@@ -28,7 +29,7 @@
 
 ---
 
-## 【 About Me 】
+## 「 About Me 」
 
 ```javascript
 const dwarkadhish = {
@@ -42,11 +43,11 @@ const dwarkadhish = {
   currentProject: "AI Fitness Trainer",
   location: "India"
 };
-```
+````
 
 ---
 
-## 【 Current Focus 】
+## 「 Current Focus 」
 
 ```yaml
 learning:
@@ -64,7 +65,7 @@ interested_in:
 
 ---
 
-## 【 Tech Stack 】
+## 「 Tech Stack 」
 
 ### Frontend
 
@@ -92,28 +93,28 @@ interested_in:
 
 ---
 
-## 【 Featured Projects 】
+## 「 Featured Projects 」
 
-| Project | Tech Stack | Description |
-|----------|------------|-------------|
-| 🏋️ AI Fitness Trainer | MERN + Gemini AI | AI-powered workout planner |
-| 💬 HeyChat | MERN + Socket.io | Real-time messaging application |
-| 🛒 Apex Ecommerce | MERN | Full-stack ecommerce platform |
-| 📝 Sticky Notes | React | Productivity application |
+| Project            | Tech Stack       | Description                     |
+| ------------------ | ---------------- | ------------------------------- |
+| AI Fitness Trainer | MERN + Gemini AI | AI-powered workout planner      |
+| HeyChat            | MERN + Socket.io | Real-time messaging application |
+| Apex Ecommerce     | MERN             | Full-stack ecommerce platform   |
+| Sticky Notes       | React            | Productivity application        |
 
 ---
 
-# ⚡ GitHub Activity
+## 「 GitHub Activity 」
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DwarkadhishKapse&theme=github-dark&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DwarkadhishKapse&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 【 Contribution Streak 】
+## 「 Contribution Streak 」
 
 <div align="center">
 
@@ -123,7 +124,7 @@ interested_in:
 
 ---
 
-# 【 Contribution Snake 】
+## 「 Contribution Snake 」
 
 <div align="center">
 
@@ -138,3 +139,4 @@ interested_in:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:1f6feb&section=footer"/>
 
 </div>
+```
