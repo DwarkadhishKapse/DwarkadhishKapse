@@ -56,9 +56,9 @@ Currently improving expertise in frontend engineering, backend architecture, and
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DwarkadhishKapse&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DwarkadhishKapse&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwarkadhishKapse&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwarkadhishKapse&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
