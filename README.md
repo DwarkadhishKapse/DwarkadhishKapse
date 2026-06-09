@@ -4,7 +4,7 @@
 
 # 🜏 THE SOFTWARE CRAFTSMAN 🜏
 
-*"Beyond forgotten kingdoms and silent ruins, a lone craftsman walks the endless road of creation."*
+*"A lone wanderer forging worlds inside cursed lines of code..."*
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=28&duration=4000&pause=1000&color=DC143C&center=true&vCenter=true&width=1000&lines=Software+Craftsman;MERN+Stack+Developer;Builder+of+Digital+Kingdoms;Forging+Ideas+Into+Reality" />
 
@@ -14,7 +14,7 @@
 
 # 📜 THE ADVENTURER'S INTRODUCTION
 
-> *"Every master was once a beginner who refused to abandon the path."*
+> *"Legends are not born. They are written in struggle."*
 
 ### 🏰 Character Sheet
 
@@ -28,37 +28,23 @@ Weapon      : JavaScript
 Status      : Journey In Progress
 ```
 
-I am a developer traveling through the vast lands of web development, building projects, learning through experience, and steadily improving my craft.
-
-Every project is a battle.
-
-Every challenge is a lesson.
-
-Every commit is a step forward.
+I am a MERN Stack Developer walking through the endless digital realm,
+building applications, learning through real battles, and growing with every commit.
 
 ---
 
 # 🎯 CURRENT QUESTS
 
-### Active Missions
-
-⚔️ Building MERN Stack Applications
-
-🏰 Improving React Development Skills
-
-📚 Learning Better Development Practices
-
-🤝 Exploring Open Source Contributions
-
-🔥 Expanding My Project Portfolio
-
-🐉 Solving Programming Challenges
+⚔️ Building MERN Stack Applications  
+🏰 Improving React Mastery  
+📚 Learning Through Projects  
+🤝 Exploring Open Source  
+🔥 Creating Real World Applications  
+🐞 Hunting Bugs Across Code Realms  
 
 ---
 
 # 🧙 SKILLS & POWERS
-
-### Arcane Abilities
 
 ```text
 ◈ JavaScript
@@ -68,50 +54,32 @@ Every commit is a step forward.
 ◈ MongoDB
 ◈ REST APIs
 ◈ Git & GitHub
-◈ Responsive Design
+◈ Responsive UI Design
 ```
 
 ---
 
 # ⚔️ WEAPONS ARSENAL
 
-### Main Weapons
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb" />
-</p>
-
-### Traveler's Equipment
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,postman" />
 </p>
 
 ---
 
-# 🏺 ANCIENT RELICS
+# 🏺 ANCIENT RELICS (PROJECTS)
 
 ## ⚔️ AI Trainer
-
-A training ground where knowledge and technology meet, helping users learn and improve through interactive experiences.
-
----
+A training realm where users sharpen their skills using interactive AI-based learning systems.
 
 ## 💬 HeyChat
-
-A communication realm where travelers connect, share messages, and build conversations in real time.
-
----
+A real-time communication world where travelers connect and exchange messages across the void.
 
 ## 👑 Apex Ecommerce
-
-A thriving marketplace forged with modern web technologies, allowing users to explore and acquire digital treasures.
-
----
+A digital merchant kingdom built for browsing and trading products in a modern web environment.
 
 ## 📝 Sticky Notes
-
-A magical artifact designed to preserve ideas before they vanish into the void.
+A simple yet powerful memory artifact used to store thoughts, tasks, and ideas.
 
 ---
 
@@ -122,58 +90,58 @@ A magical artifact designed to preserve ideas before they vanish into the void.
 + Developed Full Stack Applications
 + Created Authentication Systems
 + Built REST APIs
-+ Learned Through Real World Projects
-+ Continuing The Journey
-```
-
-> *"The greatest victories are often unseen by the world."*
-
----
-
-# 📖 TALES FROM THE ROAD
-
-### Lessons Learned
-
-⚔️ Consistency matters more than talent.
-
-⚔️ Small improvements create great results.
-
-⚔️ Building projects teaches more than endless tutorials.
-
-⚔️ Every bug defeated strengthens the craftsman.
-
----
-
-# 🗺️ FUTURE DESTINATIONS
-
-### Roads Yet To Travel
-
-```text
-◈ Learn TypeScript
-◈ Learn Next.js
-◈ Master Advanced React
-◈ Build Larger Full Stack Applications
-◈ Contribute More To Open Source
-◈ Create Real World Products
-◈ Become A Professional Software Engineer
++ Learned Through Real World Practice
++ Continuing The Journey Of Growth
 ```
 
 ---
 
-# 🛡️ THE TRAVELER'S CREED
+# 🗺️ FUTURE PATH (ROADMAP)
 
-> "The path is long, but every step has meaning."
-
-> "Skill is forged through repetition, patience, and persistence."
-
-> "The goal is not perfection. The goal is progress."
+◈ Learn TypeScript  
+◈ Learn Next.js  
+◈ Master Advanced React  
+◈ Build Larger Full Stack Applications  
+◈ Contribute More To Open Source  
+◈ Create Real World Products  
+◈ Become A Professional Software Engineer  
 
 ---
 
-<div align="center">
+# 🧿 STATUS OF THE WANDERER
 
-## 👑 MAY YOUR COMMITS NEVER FAIL
+```
+Making bugs since 2022 ⚔️🐞
+```
 
-*"One day, these chronicles will become a legend."*
+---
 
-</div>
+# 🜏 THE TRAVELER'S CREED
+
+> "Every bug defeated is a lesson gained."  
+> "Every project built is a kingdom forged."  
+> "The journey never ends — it only evolves."
+
+---
+
+# 🧙 PROFILE VISUAL SYSTEM (IMPORTANT)
+
+## 🧿 PROFILE AVATAR (PFP PROMPT)
+
+Use this to generate your GitHub profile image:
+
+> Dark fantasy anime portrait of a young male MERN stack developer, long black flowing hair partially covering face, calm expression, pale skin, monochrome ink illustration style, Berserk and Elden Ring inspired atmosphere, surrounded by glowing white spider lilies, subtle crimson aura, cinematic lighting, soft shadows, ultra detailed face, minimal background, emotional and mysterious tone, centered composition, no text, no watermark
+
+---
+
+## 🌌 GITHUB BANNER (HEADER IMAGE PROMPT)
+
+> Wide cinematic dark fantasy landscape, abandoned digital kingdom ruins shaped like broken code structures, glowing crimson runes in the sky, white spider lilies growing through broken technology, fog covering ground, lone silhouette of a wandering MERN craftsman standing in distance, long black hair, cloak flowing in wind, monochrome + crimson ink fantasy style, Elden Ring and Berserk inspired, ultra cinematic lighting, emotional empty atmosphere, highly detailed, wide banner format, no text
+
+---
+
+# 👑 FINAL LINE
+
+> "One day, these commits will become legend."
+
+---
