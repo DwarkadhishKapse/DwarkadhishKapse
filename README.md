@@ -2,36 +2,52 @@
 
 <img width="100%" src="./assets/samurai-banner.jpg" />
 
-# Dwarkadhish Kapse
+# ⚔️ Dwarkadhish Kapse
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+(MERN);React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=DwarkadhishKapse&label=PROFILE+VIEWS&style=for-the-badge&color=000000" />
 
 </div>
 
 ---
 
-## Overview
+<div align="center">
 
-Full Stack Developer specializing in building responsive and scalable web applications using the MERN stack.
+## ⚔️ Developer Card
 
-Focused on writing clean, maintainable code and developing applications with real-world usability.
+<table>
+<tr>
+<td>
 
-Currently improving expertise in frontend engineering, backend architecture, and full-stack integration.
+```text
+┌─────────────────────────────────┐
+│                                 │
+│  DWARKADHISH KAPSE              │
+│                                 │
+│  Full Stack Developer (MERN)    │
+│                                 │
+│  ⚛ React.js                     │
+│  🟢 Node.js                     │
+│  🍃 MongoDB                     │
+│                                 │
+│  Building scalable and          │
+│  responsive web applications    │
+│                                 │
+└─────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## Core Focus Areas
-
-- Full Stack Web Development (MERN)
-- Frontend Engineering (React.js)
-- Backend API Development (Node.js + Express)
-- Database Design (MongoDB)
-- REST API Integration
-- UI Development and Responsiveness
-
----
-
-## Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -41,76 +57,103 @@ Currently improving expertise in frontend engineering, backend architecture, and
 
 ---
 
-## Technical Skills
-
-```text
-Languages
-└── JavaScript (ES6+)
-
-Frontend
-├── React
-├── HTML
-└── CSS
-
-Backend
-├── Node.js
-└── Express.js
-
-Database
-└── MongoDB
-
-Tools
-├── Git
-├── GitHub
-├── VS Code
-└── Postman
-```
-
----
-
-## Projects
-
-### AI Trainer
-
-Web application designed to provide structured learning and practice experience.
-
-### HeyChat
-
-Real-time messaging application with responsive UI and authentication flow.
-
-### Apex Ecommerce
-
-Full-stack ecommerce platform with product browsing, cart, and checkout flow.
-
-### Sticky Notes
-
-Minimal productivity application for managing notes and tasks efficiently.
-
----
-
-## Engineering Approach
-
-- Build functional and scalable applications
-- Focus on clean architecture and reusable components
-- Prefer simplicity over unnecessary complexity
-- Learn through hands-on implementation
-- Iterate and improve continuously
-
----
-
-## Development Insights
+## 💻 Technical Skills
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DwarkadhishKapse&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwarkadhishKapse&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
+| Category     | Technologies                  |
+| ------------ | ----------------------------- |
+| **Language** | JavaScript (ES6+)             |
+| **Frontend** | React, HTML, CSS              |
+| **Backend**  | Node.js, Express.js           |
+| **Database** | MongoDB                       |
+| **Tools**    | Git, GitHub, VS Code, Postman |
 
 </div>
 
 ---
 
-## Contribution Activity
+## 📊 Development Insights
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DwarkadhishKapse&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwarkadhishKapse&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
+
+</div>
+
+---
+
+## 🚀 Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### ⚔️ AI Trainer
+
+Web application designed to provide structured learning and practice experience.
+
+</td>
+
+<td width="50%">
+
+### 💬 HeyChat
+
+Real-time messaging application with responsive UI and authentication flow.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🛒 Apex Ecommerce
+
+Full-stack ecommerce platform with product browsing, cart, and checkout flow.
+
+</td>
+
+<td width="50%">
+
+### 📝 Sticky Notes
+
+Minimal productivity application for managing notes and tasks efficiently.
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+## ⚙️ Engineering Approach
+
+```text
+Build functional and scalable applications
+
+Focus on clean architecture and reusable components
+
+Prefer simplicity over unnecessary complexity
+
+Learn through hands-on implementation
+
+Iterate and improve continuously
+```
+
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -120,7 +163,7 @@ Minimal productivity application for managing notes and tasks efficiently.
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -130,7 +173,7 @@ Minimal productivity application for managing notes and tasks efficiently.
 
 ---
 
-## Summary
+## 📌 Summary
 
 Focused on growing as a Full Stack Developer by building production-oriented projects and continuously improving technical depth.
 
@@ -140,6 +183,6 @@ Focused on growing as a Full Stack Developer by building production-oriented pro
 
 ### 「義」
 
-Keep Building.
+### Keep Building.
 
 </div>
