@@ -4,9 +4,23 @@
 
 # ⚔️ Dwarkadhish Kapse
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+(MERN);React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+(MERN);React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Exploring+AI+Powered+Products" />
 
 <br>
+
+<a href="mailto:dwarkadhishkapse@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/dwarkadhish-kapse-2a676a287">
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://dwarkadhishkapse.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=DwarkadhishKapse&label=PROFILE+VIEWS&style=for-the-badge&color=000000" />
 
@@ -14,50 +28,80 @@
 
 ---
 
-## ⚔️ About Me
+# 👨‍💻 About Me
 
-Full Stack Developer focused on building responsive and scalable web applications using the MERN stack.
-
-Passionate about clean code, practical solutions, and continuous learning through real-world projects.
+- Full Stack Developer focused on the MERN stack
+- Building responsive and scalable web applications
+- Interested in AI-powered applications
+- Currently working on AI Fitness Trainer
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Current Focus
+
+- AI Fitness Trainer
+- Advanced React
+- Backend Architecture
+- AI Integration
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,html,css,git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite&theme=dark" />
+
+</div>
+
+### Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+
+</div>
+
+### Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
 | Project | Description |
 |----------|-------------|
-| ⚔️ **AI Trainer** | Structured learning and practice platform |
-| 💬 **HeyChat** | Real-time messaging application with authentication |
-| 🛒 **Apex Ecommerce** | Full-stack ecommerce platform |
-| 📝 **Sticky Notes** | Minimal productivity application |
+| 🏋️ AI Fitness Trainer | AI-powered workout planner built with MERN |
+| 💬 HeyChat | Real-time messaging application |
+| 🛒 Apex Ecommerce | Full-stack ecommerce platform |
+| 📝 Sticky Notes | Productivity application |
 
 </div>
 
 ---
 
-## ⚙️ Engineering Approach
+# 📊 GitHub Statistics
 
-- Build functional and scalable applications
-- Focus on clean architecture and reusable components
-- Prefer simplicity over unnecessary complexity
-- Learn through hands-on implementation
-- Iterate and improve continuously
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DwarkadhishKapse&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwarkadhishKapse&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
 
 ---
 
-## ⚔️ GitHub Activity
+# ⚡ GitHub Activity
 
 <div align="center">
 
@@ -67,7 +111,7 @@ Passionate about clean code, practical solutions, and continuous learning throug
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -77,7 +121,7 @@ Passionate about clean code, practical solutions, and continuous learning throug
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -89,10 +133,6 @@ Passionate about clean code, practical solutions, and continuous learning throug
 
 <div align="center">
 
-## 「義」
-
-### Keep Building.
-
-*"Discipline in learning. Excellence in execution."*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:1f6feb&section=footer"/>
 
 </div>
