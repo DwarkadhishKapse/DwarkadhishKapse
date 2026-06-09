@@ -52,13 +52,11 @@ Currently improving expertise in frontend engineering, backend architecture, and
 
 ---
 
-## 📊 Development Insights
+## ⚔️ GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DwarkadhishKapse&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwarkadhishKapse&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DwarkadhishKapse&theme=github-dark&hide_border=true" />
 
 </div>
 
