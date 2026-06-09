@@ -1,100 +1,102 @@
-# ⚔️ Dwarkadhish Kapse
+# Dwarkadhish Kapse
 
 <div align="center">
 
-### 🜏 Full Stack Developer (MERN)
+### Full Stack Developer (MERN)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Building+Clean+and+Scalable+Web+Applications;Focused+on+React+%2B+Node+%2B+MongoDB" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=4F46E5&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications" />
 
 </div>
 
 ---
 
-## 🧑‍💻 ABOUT ME
+## Overview
 
-I am a **Full Stack Developer** focused on building web applications using the **MERN stack (MongoDB, Express, React, Node.js)**.
+Full Stack Developer specializing in building responsive and scalable web applications using the MERN stack.
 
-I work on creating responsive UI, building REST APIs, and developing full-stack applications with practical functionality.
+Focused on writing clean, maintainable code and developing applications with real-world usability.
 
-Currently, I am focused on improving my skills by building real projects and strengthening my understanding of modern web development.
-
----
-
-## ⚡ CURRENT FOCUS
-
-- MERN Stack Development  
-- React.js Improvement  
-- Node.js & API Development  
-- Building Full Stack Projects  
-- Improving Code Quality  
+Currently improving expertise in frontend engineering, backend architecture, and full-stack integration.
 
 ---
 
-## 🧠 TECH STACK
+## Core Focus Areas
+
+- Full Stack Web Development (MERN)
+- Frontend Engineering (React.js)
+- Backend API Development (Node.js + Express)
+- Database Design (MongoDB)
+- REST API Integration
+- UI Development and Responsiveness
+
+---
+
+## Technical Skills
 
 ```text
-Frontend  → React, HTML, CSS, JavaScript  
-Backend   → Node.js, Express.js  
-Database  → MongoDB  
-Tools     → Git, GitHub, Postman, VS Code
+Languages   : JavaScript (ES6+)
+Frontend    : React, HTML, CSS
+Backend     : Node.js, Express.js
+Database    : MongoDB
+Tools       : Git, GitHub, Postman, VS Code
 ```
 
 ---
 
-## ⚔️ TECH ARSENAL
+## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,html,css,git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🏗️ FEATURED PROJECTS
+## Projects
 
-### ⚔️ AI Trainer
-A web application designed to help users practice and improve skills through structured interaction.
+### AI Trainer
+Web application designed to provide structured learning and practice experience.
 
-### 💬 HeyChat
-A real-time messaging application with a simple and responsive interface.
+### HeyChat
+Real-time messaging application with responsive UI and authentication flow.
 
-### 👑 Apex Ecommerce
-A functional ecommerce platform with product listing and cart features.
+### Apex Ecommerce
+Full-stack ecommerce platform with product browsing, cart, and checkout flow.
 
-### 📝 Sticky Notes
-A minimal tool for storing and managing quick notes.
-
----
-
-## 📈 DEVELOPMENT APPROACH
-
-- Focus on building functional applications  
-- Prefer clean and maintainable code  
-- Learn through real-world projects  
-- Improve step by step with each build  
+### Sticky Notes
+Minimal productivity application for managing notes and tasks efficiently.
 
 ---
 
-## 🧭 FUTURE ROADMAP
+## Engineering Approach
 
-- TypeScript  
-- Next.js  
-- Advanced React Concepts  
-- Scalable Full Stack Applications  
-- Open Source Contributions  
-- Production-Level Projects  
+- Build functional and scalable applications
+- Focus on clean architecture and reusable components
+- Prefer simplicity over unnecessary complexity
+- Learn through hands-on implementation
+- Iterate and improve continuously
 
 ---
 
-## 🧿 CURRENT STATUS
+## Current Learning Goals
+
+- TypeScript fundamentals
+- Next.js framework
+- Advanced React patterns
+- System design basics for web apps
+- Scalable backend architecture
+
+---
+
+## Activity Status
 
 ```
-Making bugs since 2022 🐞
+Active in full-stack development (MERN)
 ```
 
 ---
 
-## 🧑‍💻 CLOSING NOTE
+## Summary
 
-Currently focused on learning and building as a developer.
+Focused on growing as a Full Stack Developer by building production-oriented projects and continuously improving technical depth.
 
 ---
