@@ -96,20 +96,16 @@ interested_in:
 
 <p align="center">
 
-<a href="YOUR_AI_FITNESS_TRAINER_REPO_LINK">
-<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=AI-Fitness-Trainer&theme=github_dark&hide_border=true"/>
+<a href="https://github.com/DwarkadhishKapse/AI-Fitness-Trainer">
+<img width="420"
+src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=AI-Fitness-Trainer&theme=github_dark&hide_border=true"/>
+
 </a>
 
-<a href="YOUR_HEYCHAT_REPO_LINK">
-<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=HeyChat&theme=github_dark&hide_border=true"/>
-</a>
+<a href="https://github.com/DwarkadhishKapse/HeyChat">
+<img width="420"
+src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=HeyChat&theme=github_dark&hide_border=true"/>
 
-<a href="YOUR_APEX_ECOMMERCE_REPO_LINK">
-<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=Apex-Ecommerce&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="YOUR_STICKY_NOTES_REPO_LINK">
-<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=Sticky-Notes&theme=github_dark&hide_border=true"/>
 </a>
 
 </p>
