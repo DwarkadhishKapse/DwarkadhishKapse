@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=4F46E5&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications" />
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=for-the-badge" />
+
 </div>
 
 ---
@@ -26,21 +30,33 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🖥 Developer Dashboard
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  👤 Name         : Dwarkadhish Kapse                       │
+│                                                            │
+│  💼 Role         : Full Stack Developer (MERN)            │
+│                                                            │
+│  🚀 Focus        : Scalable Web Applications              │
+│                                                            │
+│  ⚛ Frontend      : React.js                               │
+│                                                            │
+│  🟢 Backend       : Node.js + Express.js                  │
+│                                                            │
+│  🍃 Database      : MongoDB                               │
+│                                                            │
+│  🔧 Tools         : Git • GitHub • VS Code • Postman      │
+│                                                            │
+│  🔥 Status        : Active                                │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact" />
-
-</p>
+</div>
 
 ---
 
@@ -70,19 +86,28 @@ Currently improving expertise in frontend engineering, backend architecture, and
 <div align="center">
 
 ```text
-┌──────────────────── SKILLS DASHBOARD ────────────────────┐
+┌──────────────────── TECHNICAL SKILLS ────────────────────┐
 
-JavaScript     ████████████████████  90%
+Languages
+└── JavaScript (ES6+)
 
-React          ██████████████████    85%
+Frontend
+├── React
+├── HTML
+└── CSS
 
-Node.js        █████████████████     80%
+Backend
+├── Node.js
+└── Express.js
 
-Express.js     █████████████████     80%
+Database
+└── MongoDB
 
-MongoDB        █████████████████     80%
-
-Git/GitHub     ███████████████       75%
+Tools
+├── Git
+├── GitHub
+├── VS Code
+└── Postman
 
 └──────────────────────────────────────────────────────────┘
 ```
@@ -94,7 +119,9 @@ Git/GitHub     ███████████████       75%
 ## 🛠 Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,html,css,git,github,vscode,postman" />
+
 </p>
 
 ---
@@ -105,6 +132,9 @@ Git/GitHub     ███████████████       75%
 
 ```text
 ╭────────────────────────────────────────────╮
+│                                            │
+│  Language                                  │
+│  └── JavaScript                            │
 │                                            │
 │  Frontend                                  │
 │  ├── React                                │
@@ -187,30 +217,10 @@ Minimal productivity application for managing notes and tasks efficiently.
 
 ---
 
-## 📚 Current Learning Goals
-
-<div align="center">
-
-```text
-TypeScript Fundamentals      [████████░░]
-
-Next.js Framework            [███████░░░]
-
-Advanced React Patterns      [████████░░]
-
-System Design Basics         [██████░░░░]
-
-Backend Architecture         [███████░░░]
-```
-
-</div>
-
----
-
 ## 📈 Activity Status
 
 ```text
-● Active in full-stack development (MERN)
+● Active in Full Stack Development (MERN)
 ```
 
 ---
@@ -218,7 +228,9 @@ Backend Architecture         [███████░░░]
 ## 🐍 Contribution Snake
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
 </p>
 
 ---
@@ -231,12 +243,13 @@ Focused on growing as a Full Stack Developer by building production-oriented pro
 
 <div align="center">
 
-### Thanks for Visiting
+### Thanks for Stopping By
 
 ```text
 ╭─────────────────────────────╮
-│   Keep Building. Keep       │
-│   Learning. Keep Shipping.  │
+│   Keep Building.            │
+│   Keep Learning.            │
+│   Keep Shipping.            │
 ╰─────────────────────────────╯
 ```
 
