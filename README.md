@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="./assets/papeis-de-parede-estandarte.gif" width="95%" />
@@ -139,4 +138,3 @@ interested_in:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:1f6feb&section=footer"/>
 
 </div>
-```
