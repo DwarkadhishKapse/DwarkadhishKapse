@@ -1,7 +1,7 @@
 <div align="center">
 
 <div>
-  <img src="./assets/papeis-de-parede-estandarte.gif" width="90%" height="250"/>
+  <img src="./assets/papeis-de-parede-estandarte.gif" width="90%" height="300"/>
 </div>
 
 # ⚔️ Dwarkadhish Kapse
