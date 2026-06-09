@@ -1,66 +1,20 @@
 <div align="center">
 
-# Dwarkadhish Kapse
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,25:1e293b,50:312e81,75:7c3aed,100:c026d3&text=Dwarkadhish%20Kapse&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN)&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=4F46E5&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications" />
+# 👋 Hello, I'm Dwarkadhish
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+Through+Projects" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=for-the-badge" />
+<br/>
 
-</div>
-
----
-
-<div align="center">
-
-```text
-╭─────────────────────────────────────────────────────────────╮
-│                                                             │
-│   💻 FULL STACK DEVELOPER (MERN)                            │
-│                                                             │
-│   ⚛ React     🟢 Node.js     🍃 MongoDB                     │
-│                                                             │
-│   Building Responsive & Scalable Web Applications          │
-│                                                             │
-╰─────────────────────────────────────────────────────────────╯
-```
+<img src="https://komarev.com/ghpvc/?username=DwarkadhishKapse&label=Profile+Views&color=7c3aed&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🖥 Developer Dashboard
-
-<div align="center">
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│  👤 Name         : Dwarkadhish Kapse                       │
-│                                                            │
-│  💼 Role         : Full Stack Developer (MERN)            │
-│                                                            │
-│  🚀 Focus        : Scalable Web Applications              │
-│                                                            │
-│  ⚛ Frontend      : React.js                               │
-│                                                            │
-│  🟢 Backend       : Node.js + Express.js                  │
-│                                                            │
-│  🍃 Database      : MongoDB                               │
-│                                                            │
-│  🔧 Tools         : Git • GitHub • VS Code • Postman      │
-│                                                            │
-│  🔥 Status        : Active                                │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
-
-</div>
-
----
-
-## 🧾 Overview
+# 🚀 Overview
 
 Full Stack Developer specializing in building responsive and scalable web applications using the MERN stack.
 
@@ -70,7 +24,7 @@ Currently improving expertise in frontend engineering, backend architecture, and
 
 ---
 
-## 🎯 Core Focus Areas
+# 🎯 Core Focus Areas
 
 - Full Stack Web Development (MERN)
 - Frontend Engineering (React.js)
@@ -81,13 +35,19 @@ Currently improving expertise in frontend engineering, backend architecture, and
 
 ---
 
-## ⚡ Technical Skills
+# 💻 Tech Stack
 
 <div align="center">
 
-```text
-┌──────────────────── TECHNICAL SKILLS ────────────────────┐
+<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,html,css,git,github,vscode,postman&theme=dark"/>
 
+</div>
+
+---
+
+# ⚡ Technical Skills
+
+```text
 Languages
 └── JavaScript (ES6+)
 
@@ -108,60 +68,33 @@ Tools
 ├── GitHub
 ├── VS Code
 └── Postman
-
-└──────────────────────────────────────────────────────────┘
 ```
 
-</div>
-
 ---
 
-## 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,html,css,git,github,vscode,postman" />
-
-</p>
-
----
-
-## 💻 Tech Dashboard
+# 📊 Development Insights
 
 <div align="center">
 
-```text
-╭────────────────────────────────────────────╮
-│                                            │
-│  Language                                  │
-│  └── JavaScript                            │
-│                                            │
-│  Frontend                                  │
-│  ├── React                                │
-│  ├── HTML                                 │
-│  └── CSS                                  │
-│                                            │
-│  Backend                                   │
-│  ├── Node.js                              │
-│  └── Express.js                           │
-│                                            │
-│  Database                                  │
-│  └── MongoDB                              │
-│                                            │
-│  Tools                                     │
-│  ├── Git                                  │
-│  ├── GitHub                               │
-│  ├── Postman                              │
-│  └── VS Code                              │
-│                                            │
-╰────────────────────────────────────────────╯
-```
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DwarkadhishKapse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwarkadhishKapse&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
 ---
 
-## 🚀 Projects
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DwarkadhishKapse&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Projects
 
 <table>
 <tr>
@@ -207,7 +140,7 @@ Minimal productivity application for managing notes and tasks efficiently.
 
 ---
 
-## ⚙️ Engineering Approach
+# ⚙️ Engineering Approach
 
 - Build functional and scalable applications
 - Focus on clean architecture and reusable components
@@ -217,25 +150,27 @@ Minimal productivity application for managing notes and tasks efficiently.
 
 ---
 
-## 📈 Activity Status
+# 📈 Activity Graph
 
-```text
-● Active in Full Stack Development (MERN)
-```
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DwarkadhishKapse&theme=tokyo-night&hide_border=true"/>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-
-</p>
+</div>
 
 ---
 
-## 📌 Summary
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 📌 Summary
 
 Focused on growing as a Full Stack Developer by building production-oriented projects and continuously improving technical depth.
 
@@ -243,14 +178,8 @@ Focused on growing as a Full Stack Developer by building production-oriented pro
 
 <div align="center">
 
-### Thanks for Stopping By
+### Thanks for Stopping By 👨‍💻
 
-```text
-╭─────────────────────────────╮
-│   Keep Building.            │
-│   Keep Learning.            │
-│   Keep Shipping.            │
-╰─────────────────────────────╯
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:c026d3,25:7c3aed,50:312e81,75:1e293b,100:0f172a"/>
 
 </div>
