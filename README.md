@@ -1,7 +1,7 @@
 <div align="center">
 
 <div>
-  <img src="./assets/sword_girl.gif" width="90%" height="300"/>
+  <img src="./assets/sword_girl.gif" width="90%" height="400"/>
 </div>
 
 # ⚔️ Dwarkadhish Kapse
