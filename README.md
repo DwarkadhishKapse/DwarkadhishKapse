@@ -70,7 +70,7 @@ interested_in:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind&theme=dark"/>
 
 </div>
 
@@ -78,7 +78,7 @@ interested_in:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
 
 </div>
 
@@ -86,7 +86,7 @@ interested_in:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
 
 </div>
 
@@ -94,31 +94,12 @@ interested_in:
 
 # 🚀 Featured Projects
 
-<p align="center">
-
-<a href="https://github.com/DwarkadhishKapse/AI-Fitness-Trainer">
-<img width="420"
-src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=AI-Fitness-Trainer&theme=github_dark&hide_border=true"/>
-
-</a>
-
-<a href="https://github.com/DwarkadhishKapse/HeyChat">
-<img width="420"
-src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=HeyChat&theme=github_dark&hide_border=true"/>
-
-</a>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DwarkadhishKapse&theme=darkhub&no-frame=true&margin-w=15&row=1"/>
-
-</div>
+| Project | Tech Stack | Description |
+|----------|------------|-------------|
+| 🏋️ AI Fitness Trainer | MERN + Gemini AI | AI-powered workout planner |
+| 💬 HeyChat | MERN + Socket.io | Real-time messaging application |
+| 🛒 Apex Ecommerce | MERN | Full-stack ecommerce platform |
+| 📝 Sticky Notes | React | Productivity application |
 
 ---
 
@@ -126,7 +107,7 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&r
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DwarkadhishKapse&theme=github-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DwarkadhishKapse&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -136,7 +117,7 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&r
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DwarkadhishKapse&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=DwarkadhishKapse&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -146,7 +127,7 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&r
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
