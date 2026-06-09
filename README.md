@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="./assets/samurai-banner.jpg" />
+<div align="center">
+  <img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJudDRnb20xZjExMzB4Y2hnNWQ4ZW9mdmg5bXM1d3dyZ3Mwa2I1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ci4vIzBJxofxI8xbgh/giphy.gif" />
+</div>
 
 # ⚔️ Dwarkadhish Kapse
 
