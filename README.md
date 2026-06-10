@@ -113,11 +113,17 @@ interested_in:
 
 ---
 
-## 「 Contribution Streak 」
+## 「 Development Journey 」
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DwarkadhishKapse&theme=github-dark-blue&hide_border=true"/>
+<img height="170em"
+src="https://streak-stats.demolab.com?user=DwarkadhishKapse&theme=github-dark-blue&hide_border=true"/>
+
+<br><br>
+
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DwarkadhishKapse&theme=github_dark"/>
 
 </div>
 
