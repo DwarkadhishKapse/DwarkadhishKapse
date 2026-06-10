@@ -28,7 +28,7 @@
 
 ---
 
-## 「 About Me 」
+## 「 Profile 」
 
 ```javascript
 const dwarkadhish = {
@@ -46,7 +46,7 @@ const dwarkadhish = {
 
 ---
 
-## 「 Current Focus 」
+## 「 Current Mission 」
 
 ```yaml
 learning:
@@ -64,9 +64,9 @@ interested_in:
 
 ---
 
-## 「 Tech Stack 」
+## 「 Tech Arsenal 」
 
-### Frontend
+### ◈ Frontend
 
 <div align="center">
 
@@ -74,27 +74,35 @@ interested_in:
 
 </div>
 
-### Backend
+### ◈ Backend
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 
 </div>
 
-### Database
+### ◈ Database
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
 
 </div>
 
-### Tools
+### ◈ Tools & Deployment
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark"/>
+
+</div>
+
+### ◈ AI / ML
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark"/>
 
 </div>
 
@@ -102,12 +110,23 @@ interested_in:
 
 ## 「 Featured Projects 」
 
-| Project | Tech Stack | Description |
-|-----------|------------|-------------|
-| AI Fitness Trainer | MERN + Gemini AI | AI-powered workout planner |
-| HeyChat | MERN + Socket.io | Real-time messaging application |
-| Apex Ecommerce | MERN | Full-stack ecommerce platform |
-| Sticky Notes | React | Productivity application |
+```text
+AI Fitness Trainer
+├─ MERN + Gemini AI
+└─ AI-powered workout planner
+
+HeyChat
+├─ MERN + Socket.io
+└─ Real-time messaging application
+
+Apex Ecommerce
+├─ MERN
+└─ Full-stack ecommerce platform
+
+Sticky Notes
+├─ React
+└─ Productivity application
+```
 
 ---
 
