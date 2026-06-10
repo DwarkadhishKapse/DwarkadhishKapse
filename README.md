@@ -42,7 +42,7 @@ const dwarkadhish = {
   currentProject: "AI Fitness Trainer",
   location: "India"
 };
-````
+```
 
 ---
 
@@ -82,6 +82,14 @@ interested_in:
 
 </div>
 
+### Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark"/>
+
+</div>
+
 ### Tools
 
 <div align="center">
@@ -94,12 +102,12 @@ interested_in:
 
 ## 「 Featured Projects 」
 
-| Project            | Tech Stack       | Description                     |
-| ------------------ | ---------------- | ------------------------------- |
-| AI Fitness Trainer | MERN + Gemini AI | AI-powered workout planner      |
-| HeyChat            | MERN + Socket.io | Real-time messaging application |
-| Apex Ecommerce     | MERN             | Full-stack ecommerce platform   |
-| Sticky Notes       | React            | Productivity application        |
+| Project | Tech Stack | Description |
+|-----------|------------|-------------|
+| AI Fitness Trainer | MERN + Gemini AI | AI-powered workout planner |
+| HeyChat | MERN + Socket.io | Real-time messaging application |
+| Apex Ecommerce | MERN | Full-stack ecommerce platform |
+| Sticky Notes | React | Productivity application |
 
 ---
 
@@ -113,7 +121,7 @@ interested_in:
 
 ---
 
-## 「 Development Journey 」
+## 「 Coding Insights 」
 
 <div align="center">
 
@@ -122,8 +130,16 @@ src="https://streak-stats.demolab.com?user=DwarkadhishKapse&theme=github-dark-bl
 
 <br><br>
 
-<img width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DwarkadhishKapse&theme=github_dark"/>
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DwarkadhishKapse&theme=github_dark"/>
+
+<img width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DwarkadhishKapse&theme=github_dark"/>
+
+<br><br>
+
+<img width="70%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DwarkadhishKapse&theme=github_dark&utcOffset=5.5"/>
 
 </div>
 
