@@ -2,7 +2,7 @@
 
 <img src="./assets/papeis-de-parede-estandarte.gif" width="95%" />
 
-# ⚔️ Dwarkadhish Kapse
+# ⟦ ⚔ Dwarkadhish Kapse ⚔ ⟧
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+(MERN);React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Exploring+AI+Powered+Products" />
 
