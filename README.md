@@ -28,7 +28,7 @@
 
 ---
 
-## 「 Profile 」
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=100000&color=1F6FEB&repeat=false&width=220&lines=%E3%80%8C+Profile+%E3%80%8D"/>
 
 ```javascript
 const dwarkadhish = {
@@ -46,7 +46,7 @@ const dwarkadhish = {
 
 ---
 
-## 「 Current Mission 」
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=100000&color=1F6FEB&repeat=false&width=330&lines=%E3%80%8C+Current+Mission+%E3%80%8D"/>
 
 ```yaml
 learning:
@@ -64,73 +64,67 @@ interested_in:
 
 ---
 
-## 「 Tech Arsenal 」
-
-### ◈ Frontend
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=100000&color=1F6FEB&repeat=false&width=280&lines=%E3%80%8C+Tech+Arsenal+%E3%80%8D"/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind&theme=dark"/>
+### 🖥 Frontend
 
-</div>
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite"/>
+<img src="https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3"/>
 
-### ◈ Backend
+<br><br>
 
-<div align="center">
+### ⚙ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql"/>
 
-</div>
+<br><br>
 
-### ◈ Database
+### ☁ Tools
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
-
-</div>
-
-### ◈ Tools & Deployment
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark"/>
-
-</div>
-
-### ◈ AI / ML
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark"/>
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel"/>
 
 </div>
 
 ---
 
-## 「 Featured Projects 」
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=100000&color=1F6FEB&repeat=false&width=350&lines=%E3%80%8C+Featured+Projects+%E3%80%8D"/>
 
-```text
-AI Fitness Trainer
-├─ MERN + Gemini AI
-└─ AI-powered workout planner
+<div align="center">
 
-HeyChat
-├─ MERN + Socket.io
-└─ Real-time messaging application
+<a href="YOUR_AI_REPO_LINK">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=YOUR_AI_REPO_NAME&theme=github_dark&hide_border=true"/>
+</a>
 
-Apex Ecommerce
-├─ MERN
-└─ Full-stack ecommerce platform
+<a href="YOUR_HEYCHAT_REPO_LINK">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=YOUR_HEYCHAT_REPO_NAME&theme=github_dark&hide_border=true"/>
+</a>
 
-Sticky Notes
-├─ React
-└─ Productivity application
-```
+<a href="YOUR_APEX_REPO_LINK">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=YOUR_APEX_REPO_NAME&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="YOUR_STICKY_NOTES_REPO_LINK">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=YOUR_STICKY_NOTES_REPO_NAME&theme=github_dark&hide_border=true"/>
+</a>
+
+</div>
 
 ---
 
-## 「 GitHub Activity 」
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=100000&color=1F6FEB&repeat=false&width=320&lines=%E3%80%8C+GitHub+Activity+%E3%80%8D"/>
 
 <div align="center">
 
@@ -140,31 +134,19 @@ Sticky Notes
 
 ---
 
-## 「 Coding Insights 」
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=100000&color=1F6FEB&repeat=false&width=320&lines=%E3%80%8C+GitHub+Insights+%E3%80%8D"/>
 
 <div align="center">
 
-<img height="170em"
-src="https://streak-stats.demolab.com?user=DwarkadhishKapse&theme=github-dark-blue&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=DwarkadhishKapse&theme=github-dark-blue&hide_border=true"/>
 
-<br><br>
-
-<img width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DwarkadhishKapse&theme=github_dark"/>
-
-<img width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DwarkadhishKapse&theme=github_dark"/>
-
-<br><br>
-
-<img width="70%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DwarkadhishKapse&theme=github_dark&utcOffset=5.5"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DwarkadhishKapse&theme=github_dark&utcOffset=5.5"/>
 
 </div>
 
 ---
 
-## 「 Contribution Snake 」
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=100000&color=1F6FEB&repeat=false&width=360&lines=%E3%80%8C+Contribution+Snake+%E3%80%8D"/>
 
 <div align="center">
 
