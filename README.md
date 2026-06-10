@@ -22,13 +22,13 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=DwarkadhishKapse&label=PROFILE+VIEWS&style=for-the-badge&color=000000" />
+<img src="https://komarev.com/ghpvc/?username=DwarkadhishKapse&label=PROFILE+VIEWS&style=for-the-badge&color=000000"/>
 
 </div>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=100000&color=1F6FEB&repeat=false&width=220&lines=%E3%80%8C+Profile+%E3%80%8D"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1800&pause=1000&repeat=true&color=1F6FEB&width=220&lines=%E3%80%8C+Profile+%E3%80%8D"/>
 
 ```javascript
 const dwarkadhish = {
@@ -42,11 +42,11 @@ const dwarkadhish = {
   currentProject: "AI Fitness Trainer",
   location: "India"
 };
-```
+````
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=100000&color=1F6FEB&repeat=false&width=330&lines=%E3%80%8C+Current+Mission+%E3%80%8D"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1800&pause=1000&repeat=true&color=1F6FEB&width=320&lines=%E3%80%8C+Current+Mission+%E3%80%8D"/>
 
 ```yaml
 learning:
@@ -64,67 +64,74 @@ interested_in:
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=100000&color=1F6FEB&repeat=false&width=280&lines=%E3%80%8C+Tech+Arsenal+%E3%80%8D"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1800&pause=1000&repeat=true&color=1F6FEB&width=270&lines=%E3%80%8C+Tech+Arsenal+%E3%80%8D"/>
 
 <div align="center">
 
 ### 🖥 Frontend
 
-<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite"/>
-<img src="https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss"/>
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite"/>
+<img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3"/>
 
 <br><br>
 
 ### ⚙ Backend & Database
 
-<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql"/>
 
 <br><br>
 
-### ☁ Tools
+### ☁ Tools & Deployment
 
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman"/>
-<img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode"/>
-<img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel"/>
+
+<br><br>
+
+### 🤖 AI / ML
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow"/>
 
 </div>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=100000&color=1F6FEB&repeat=false&width=350&lines=%E3%80%8C+Featured+Projects+%E3%80%8D"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1800&pause=1000&repeat=true&color=1F6FEB&width=350&lines=%E3%80%8C+Featured+Projects+%E3%80%8D"/>
 
 <div align="center">
 
-<a href="YOUR_AI_REPO_LINK">
-<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=YOUR_AI_REPO_NAME&theme=github_dark&hide_border=true"/>
+<a href="https://github.com/DwarkadhishKapse/ai-fitness-trainer">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=ai-fitness-trainer&theme=github_dark&hide_border=true"/>
 </a>
 
-<a href="YOUR_HEYCHAT_REPO_LINK">
-<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=YOUR_HEYCHAT_REPO_NAME&theme=github_dark&hide_border=true"/>
+<a href="https://github.com/DwarkadhishKapse/HeyChat---Web-Chat-Application">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=HeyChat---Web-Chat-Application&theme=github_dark&hide_border=true"/>
 </a>
 
-<a href="YOUR_APEX_REPO_LINK">
-<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=YOUR_APEX_REPO_NAME&theme=github_dark&hide_border=true"/>
+<a href="https://github.com/DwarkadhishKapse/Apex---ecommerce">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=Apex---ecommerce&theme=github_dark&hide_border=true"/>
 </a>
 
-<a href="YOUR_STICKY_NOTES_REPO_LINK">
-<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=YOUR_STICKY_NOTES_REPO_NAME&theme=github_dark&hide_border=true"/>
+<a href="https://github.com/DwarkadhishKapse/Sticky-Notes">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DwarkadhishKapse&repo=Sticky-Notes&theme=github_dark&hide_border=true"/>
 </a>
 
 </div>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=100000&color=1F6FEB&repeat=false&width=320&lines=%E3%80%8C+GitHub+Activity+%E3%80%8D"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1800&pause=1000&repeat=true&color=1F6FEB&width=300&lines=%E3%80%8C+GitHub+Activity+%E3%80%8D"/>
 
 <div align="center">
 
@@ -134,7 +141,7 @@ interested_in:
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=100000&color=1F6FEB&repeat=false&width=320&lines=%E3%80%8C+GitHub+Insights+%E3%80%8D"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1800&pause=1000&repeat=true&color=1F6FEB&width=300&lines=%E3%80%8C+GitHub+Insights+%E3%80%8D"/>
 
 <div align="center">
 
@@ -142,11 +149,17 @@ interested_in:
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DwarkadhishKapse&theme=github_dark&utcOffset=5.5"/>
 
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DwarkadhishKapse&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DwarkadhishKapse&theme=github_dark"/>
+
 </div>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=100000&color=1F6FEB&repeat=false&width=360&lines=%E3%80%8C+Contribution+Snake+%E3%80%8D"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1800&pause=1000&repeat=true&color=1F6FEB&width=340&lines=%E3%80%8C+Contribution+Snake+%E3%80%8D"/>
 
 <div align="center">
 
