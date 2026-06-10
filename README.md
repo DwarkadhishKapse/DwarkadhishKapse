@@ -28,7 +28,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1800&pause=1000&repeat=true&color=1F6FEB&width=220&lines=%E3%80%8C+Profile+%E3%80%8D"/>
+## 「 Profile 」
 
 ```javascript
 const dwarkadhish = {
@@ -46,7 +46,7 @@ const dwarkadhish = {
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1800&pause=1000&repeat=true&color=1F6FEB&width=320&lines=%E3%80%8C+Current+Mission+%E3%80%8D"/>
+## 「 Current Mission 」
 
 ```yaml
 learning:
@@ -64,7 +64,7 @@ interested_in:
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1800&pause=1000&repeat=true&color=1F6FEB&width=270&lines=%E3%80%8C+Tech+Arsenal+%E3%80%8D"/>
+## 「 Tech Arsenal 」
 
 <div align="center">
 
@@ -107,7 +107,7 @@ interested_in:
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1800&pause=1000&repeat=true&color=1F6FEB&width=350&lines=%E3%80%8C+Featured+Projects+%E3%80%8D"/>
+## 「 Featured Projects 」
 
 <div align="center">
 
@@ -131,7 +131,7 @@ interested_in:
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1800&pause=1000&repeat=true&color=1F6FEB&width=300&lines=%E3%80%8C+GitHub+Activity+%E3%80%8D"/>
+## 「 GitHub Activity 」
 
 <div align="center">
 
@@ -141,7 +141,7 @@ interested_in:
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1800&pause=1000&repeat=true&color=1F6FEB&width=300&lines=%E3%80%8C+GitHub+Insights+%E3%80%8D"/>
+## 「 Development Metrics 」
 
 <div align="center">
 
@@ -159,7 +159,7 @@ interested_in:
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1800&pause=1000&repeat=true&color=1F6FEB&width=340&lines=%E3%80%8C+Contribution+Snake+%E3%80%8D"/>
+## 「 Contribution Trail 」
 
 <div align="center">
 
